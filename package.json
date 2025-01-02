@@ -1,0 +1,12 @@
+{
+  "name": "book-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pandoc -s header.yml --lua-filter=filters/include.lua --lua-filter=filters/columns.lua --lua-filter=filters/xcolor.lua ./book/book.md -o BOOK.pdf"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

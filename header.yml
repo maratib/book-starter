@@ -1,0 +1,11 @@
+---
+title: "TOP 150 Q and A"
+author: Maratib Ali Khan
+date: January 02, 2025
+geometry: "left=1cm,right=1cm,top=1cm,bottom=1cm"
+documentclass: extarticle
+fontsize: 10pt
+output:
+  pdf_document:
+---
+
